@@ -1,0 +1,210 @@
+    #B1{
+      background-color:black;
+      color:yellow;
+      font-size: 15px;
+      height: 100px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B2{
+      background-color:black;
+      color:yellow;
+      font-size: 15px;
+      height: 100px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B3{
+      background-color:black;
+      color:yellow;
+      font-size:15px;
+      height: 100px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B4{
+      background-color:black;
+      color:yellow;
+      font-size: 15px;
+      height: 100px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B5{
+      background-color:black;
+      color:yellow;
+      font-size: 15px;
+      height: 100px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B6{
+      background-color:#C0C0C0;
+      color: black;
+      text-decoration: underline;
+      font-size: 20px;
+      height: 246px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B7{
+      background-color:#C0C0C0;
+      color:black;
+      font-size: 18px;
+      height: 246px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B8{
+      background-color:#C0C0C0;
+      color:black;
+      font-size: 18px;
+      height: 246px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B9{
+      background-color:#C0C0C0;
+      color:black;
+      font-size: 18px;
+      height: 246px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    #B10{
+      background-color:#C0C0C0;
+      color:black;
+      font-size: 18px;
+      height: 246px;
+      width: 350px;
+      text-align: center;
+      padding: 12px;
+    }
+    a  {
+    display: inline-block;
+    height: 20px;
+    width: 100px;
+    padding: 12px;
+    text-align: center;
+    margin: 25px;
+    background-color: #008B8B;
+    color: white;
+    border-radius: 8px;
+    border-style: ridge;
+    text-decoration: none;
+    }
+    a:hover{
+    color: black;
+    background-color: #00FF7F;
+    border-radius: 8px;
+    height: 20px;
+    width: 100px;
+    padding: 12px;
+    border-style: ridge;
+    font-weight: bold;
+    transition-duration: 200ms;
+    text-align: center;
+    }
+    a:active{
+    background-color: lightblue;
+    color: white;
+    border-radius: 8px;
+    height: 20px;
+    width: 100px;
+    padding: 12px;
+    cursor: grabbing;
+    text-align: center;
+      }
+    input[type="text"], input[type="email"],
+    select, textarea, button{
+    background-color: #FFFFE0;
+    color:black;
+    display: block;
+    margin: 15px 0px;
+    height: 22px;
+    width: 420px;
+    box-sizing: border-box;
+    box-shadow: 7px 7px lightgrey;
+    border-radius: 4px;
+    text-align: left;
+    letter-spacing: 3px;
+    border: 1px solid;
+    border-color: purple;
+    margin-left: 70px;
+    }
+    textarea{
+    height: 130px;
+    background-color:#FFFFE0 ;
+    padding: 5px 5px;
+    box-shadow: 7px 7px lightgrey;
+    }
+    button:hover{
+    background-color: lightgreen;
+    color: black; 
+    text-align: center;
+    }
+    button:active{
+    background-color: #00FF00;
+    box-shadow: 1px 1px 1px #000, 
+               3px 3px 5px yellow; 
+    font-size: larger;
+    width: 420px;
+    border-color: black;
+    border-radius: 4px;
+    text-align: center;
+    cursor: grabbing;
+    }
+    .pic3{
+    margin-right: 170px;
+    }
+    img {
+      float: right;
+      padding: 4px;
+    }
+    h2{
+    margin-left: 180px;
+    color: black;
+    }
+    header{
+    background-color:#8FBC8F;
+    font-size: 14px;
+    color: black;
+    width: 100%;
+    height: 180px;
+    text-align: center;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    }
+    body{
+    background-color:white;
+    font-family: 'Lucida Console';
+    font-size: 13px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    }
+    footer{
+    background-color:#66CDAA;
+    text-align: right;
+    color: black;
+    text-decoration: underline;
+    font-size: 12px;
+    width: 100%;
+    height: 180px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    }
